@@ -18,6 +18,7 @@
 
   
 References
+
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
 Wang, L., Lin, Z. Q., & Wong, A. (2020). COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images. Scientific Reports, 10(1), 19549.
 Apostolopoulos, I. D., & Mpesiana, T. A. (2020). COVID-19: Automatic Detection from X-Ray Images Utilizing Transfer Learning with Convolutional Neural Networks. Physical and Engineering Sciences in Medicine, 43(2), 635-640.
